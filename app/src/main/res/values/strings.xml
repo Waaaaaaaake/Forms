@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BizType</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="enter_text">Войти</string>
+    <string name="registry_text">Зарегистрироваться</string>
+    <string name="login_input_error">Ошибка логина. Неверный логин или пароль</string>
+    <string name="input_error">Ошибка ввода данных</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="button_text">Текст</string>
+    <string name="I">Здесь будет текст</string>
+    <string name="password_ft">Введите пароль</string>
+    <string name="password_again">Введите пароль ещё раз</string>
+    <string name="success">Данные были успешно добавлены</string>
+    <string name="login_error">Логин уже занят</string>
+    <string name="logout">Выйти</string>
+
+</resources>
